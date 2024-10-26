@@ -3,7 +3,6 @@ import {
     createRoutesFromElements,
     Route,
     RouterProvider,
-    HashRouter,
 } from "react-router-dom";
 import { createRoot } from "react-dom/client";
 import { StrictMode } from "react";
@@ -35,9 +34,7 @@ const router = createBrowserRouter(
 );
 
 createRoot(document.getElementById("root")).render(
-    <HashRouter>
-        <StrictMode>
-            <RouterProvider router={router} />
-        </StrictMode>
-    </HashRouter>
+    <StrictMode>
+        <RouterProvider router={router} />
+    </StrictMode>
 );
