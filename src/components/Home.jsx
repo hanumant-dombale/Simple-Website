@@ -20,7 +20,7 @@ export default function Home() {
                 fill="white"
                 width="24"
                 height="24"
-                xmlns="http://www.w3.org/2000/svg"
+                xmlns="https://i0.wp.com/www.webzin.in/wp-content/uploads/2014/01/web2-1.jpg?fit=1288%2C1080&ssl=1"
                 fillRule="evenodd"
                 clipRule="evenodd"
               >
@@ -43,7 +43,7 @@ export default function Home() {
       <div className="grid  place-items-center sm:mt-20">
         <img
           className="sm:w-96 w-48"
-          src="https://i.ibb.co/2M7rtLk/Remote1.png"
+          src="https://i0.wp.com/digichefs.com/wp-content/uploads/2024/05/3-WD-1.webp?w=1080&ssl=1"
           alt="image2"
         />
       </div>
