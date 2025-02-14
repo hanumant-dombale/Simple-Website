@@ -34,7 +34,7 @@ export default function Home() {
         <div className="absolute inset-0 w-full sm:my-20 sm:pt-1 pt-12 h-full ">
           <img
             className="w-96"
-            src="https://i.ibb.co/5BCcDYB/Remote2.png"
+            src="https://media.licdn.com/dms/image/v2/D5612AQEhKguQVjXr4g/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1693971265825?e=2147483647&v=beta&t=_eC7LaTUoFGro7jGKXH19Mjjjlw6SgzIqM2QcLbLhP8"
             alt="image1"
           />
         </div>
